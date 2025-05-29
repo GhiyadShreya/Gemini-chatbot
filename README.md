@@ -1,2 +1,2 @@
 # Gemini-chatbot
- Rag_chatbot for electronics department using gemini
+ Rag_chatbot for department specific use using gemini api-key.
