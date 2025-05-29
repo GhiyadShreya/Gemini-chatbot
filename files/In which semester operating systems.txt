@@ -1,0 +1,28 @@
+In which semester operating systems is there? mention only semester number.
+What are research areas of Dr Deepak Bharti? Provide only answer.
+list professors having research areas in Machine learning.
+List syllabus of wireless and 5g communication.
+who is Dr. Ankit?
+List the names of assistant professors
+
+
+
+
+
+What is a database and how does it differ from a file system?
+What are the types of data models in DBMS?
+What is a primary key?
+What are the different types of SQL commands?
+What is normalization and why is it needed?
+
+
+Who is fred?
+ Describe Fred’s personality and his best friend.
+What lesson does Fred learn from his adventure?
+Who is Amarok and what motivates his journey?
+What challenges does Lily face on her journey back?
+
+
+ What is a wireless BAIM (wBAIM), and why is it important for 6G?
+How does wBAIM differ from conventional wireless AI architectures?
+ What are some challenges in developing wBAIMs for wireless systems?
